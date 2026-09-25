@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 RTXYOGIRAJ app template
 
 A simple Streamlit app template for you to modify!
 
